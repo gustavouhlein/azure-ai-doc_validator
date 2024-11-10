@@ -1,0 +1,5 @@
+python-dotenv
+streamlit
+azure-core
+azure-storage-blob
+azure-ai-documentintelligence
